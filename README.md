@@ -81,7 +81,7 @@ A solução deve ser desenvolvida na linguagem Python. Devem ser utilizadas apen
 
 ## Entrega
 
-A entrega será realizada via github. Deve conter as imagens adquiridas, o código fonte da aplicação e um arquivo no formato markdown descrevendo o algoritmo e os resultados.
+A entrega será realizada via github classroom, assim, é importante que sejam feitos commits regulares no repositório, com comentários descrevendo o que foi feito. Deve conter as imagens adquiridas, o código fonte da aplicação e um arquivo no formato markdown descrevendo o algoritmo e os resultados.
 
 O relatório deve:
 - descrever o ambiente experimental e parâmetros utilizados;
